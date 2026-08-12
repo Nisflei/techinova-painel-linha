@@ -1,5 +1,10 @@
 # Identificações:
 
+Bernardo Henrique Silva Corte, 26174736
+
+Gabriel Ferreira Moreno, 26175344
+
+Caio Cabral Pinto, 26175211
 
 # 🏭 TechInova — Painel de Linha
 
