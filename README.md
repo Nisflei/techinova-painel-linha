@@ -8,4 +8,6 @@ Abra o arquivo `index.html` no navegador. Nao precisa de servidor web.
 
 ## Identificacao
 
-<!-- Escreva aqui seu nome completo e sua matricula -->
+Bernardo Henrique Silva Corte, 26174736 
+Gabriel Ferreira Moreno, 26175344 
+Caio Cabral Pinto, 26175211
