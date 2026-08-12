@@ -1,0 +1,64 @@
+# 📊 Painel da Linha 3 - TechInova
+
+> **Status do Projeto:** 🚀 Concluído / Em Desenvolvimento
+
+O **Painel da Linha 3** é uma aplicação web front-end desenvolvida para monitorar e exibir, em tempo real, a leitura dos sensores industriais da Linha 3 da fábrica. A ferramenta centraliza dados operacionais para facilitar a tomada de decisão e a visualização rápida do status da produção.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+O projeto foi construído utilizando tecnologias web padrão, dispensando a necessidade de compiladores ou instaladores pesados:
+
+* **HTML5:** Estruturação semântica da página e dos componentes do painel.
+* **CSS3:** Estilização moderna, layout responsivo e identidade visual da TechInova.
+* **JavaScript (ES6+):** Lógica de consumo, manipulação dos dados dos sensores e atualização dinâmica da tela.
+
+---
+
+## 📁 Estrutura do Repositório
+
+A organização dos arquivos no projeto segue a seguinte estrutura:
+
+* `/config`: Arquivos de configuração global do painel.
+* `/css`: Estilos visuais e folhas de estilo da aplicação.
+* `/dados`: Arquivos ou mocks contendo os dados de leitura dos sensores.
+* `/js`: Scripts e lógica de funcionamento em JavaScript.
+* `index.html`: Ponto de entrada principal da aplicação.
+* `RESPOSTAS.md`: Documentação técnica contendo as respostas do desafio/requisitos.
+
+---
+
+## 🚀 Como Executar o Projeto
+
+Uma das grandes vantagens deste painel é a sua simplicidade de execução, pois ele roda inteiramente no lado do cliente (client-side) e **não necessita de um servidor web** ativo.
+
+### Passo a Passo:
+
+1. **Clonar o repositório:**
+   ```bash
+   git clone https://github.com/guilhermeoliveiraramos/techinova-painel-linha.git
+   ```
+2. **Navegar até a pasta:**
+   ```bash
+   cd techinova-painel-linha
+   ```
+3. **Abrir a aplicação:**
+   * Basta dar um **duplo clique** no arquivo `index.html` ou abri-lo diretamente em qualquer navegador moderno (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari).
+
+---
+
+## ⚙️ Funcionalidades Principais
+
+* **Monitoramento Industrial:** Exibição clara e objetiva do status dos sensores da Linha 3.
+* **Interface Responsiva:** Adaptada para visualização em diferentes tamanhos de tela (monitores industriais, tablets ou computadores).
+* **Leitura Eficiente:** Estrutura otimizada para renderizar os dados armazenados na pasta `/dados` de forma rápida.
+
+---
+
+## 🧑‍💻 Autor
+
+Desenvolvido por [Guilherme Oliveira Ramos](https://github.com/guilhermeoliveiraramos). 
+
+---
+_Este projeto foi baseado no fork original de [Nisflei/techinova-painel-linha](https://github.com)._
