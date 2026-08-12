@@ -1,4 +1,4 @@
-# 📊 Techinova - Painel de Linha
+# 📊 Techinova - Painel de Linha (ATUALIZADA PÓS PR)
 
 O **Techinova Painel de Linha** é um sistema de monitoramento e visualização em tempo real voltado para linhas de produção e processos industriais. A aplicação centraliza indicadores de desempenho (KPIs), status operacionais e métricas de eficiência para otimizar o fluxo produtivo e a tomada de decisão.
 
