@@ -1,24 +1,28 @@
 # Respostas do LAB 01
 
-Nome:
-Matricula:
-Dupla (M2 em diante):
+Nome: Denis Goes
+Matricula: NONE
+Dupla (M2 em diante): Sozinho
 
 ---
 
 ## M2 - Quem quebrou o painel
 
-**Hash curto do commit que introduziu o erro:**
+Hash curto do commit que introduziu o erro: 01ef93b
 
-**Autor:**
+Autor: Tarcisio Melo
 
-**Data:**
+Data: 15/06/2026 22:38:00 -0300
 
-**Linha alterada (antes e depois):**
+Linha alterada (antes e depois):
 
 ```
-antes:
+antes: 
+return (leitura - 32) * 5 / 9;
+
+
 depois:
+return leitura * 9 / 5 + 32;
 ```
 
 ---
