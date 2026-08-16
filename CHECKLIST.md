@@ -2,5 +2,5 @@
 2. Legibilidade
 3. Lógica
 4. Segurança
-5. Alteração para F3
+5. Alteração para f3
    
