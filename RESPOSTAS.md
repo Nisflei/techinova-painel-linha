@@ -43,11 +43,18 @@ R2 - A chave ainda pode ser acessada pelo histórico de commits anteriores, por 
 
 **O que significavam os marcadores que apareceram dentro do arquivo:**
 
-- `<<<<<<<` :
-- `=======` :
-- `>>>>>>>` :
+- `<<<<<<<` : Representa o inicio da versão que estava na branch atual, no caso a main.
+- `=======` : Representa o separador, separando a versão que está na main com a versão que está na branch painel-b
+- `>>>>>>>` : Representa o fim da alteração da branch painel-b
 
 **Qual pedaco veio de quem, e qual titulo voces decidiram manter:**
+
+Branch painel-a:
+<h1>Painel da Linha 3 - Atividade</h1>
+
+Branch painel-b:
+<h1>Painel da Linha 3 - Operacao</h1>
+
 
 ---
 
