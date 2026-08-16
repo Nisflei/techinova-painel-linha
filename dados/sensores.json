@@ -28,5 +28,11 @@
     "descricao": "Vibracao do eixo principal",
     "valor": 68.0,
     "unidade": "F"
+  },
+  {
+    "codigo": "S-344",
+    "descricao": "Nova Máquina",
+    "valor": 67.0,
+    "unidade": "F"
   }
 ]
