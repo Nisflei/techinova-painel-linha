@@ -31,8 +31,11 @@ return leitura * 9 / 5 + 32;
 
 **O que voce esperava ver no `git status` e o que apareceu:**
 
-**Depois do push, alguem que clonar o repositorio ainda consegue ler a chave?
-Responda em duas linhas, explicando o motivo:**
+Depois do push, alguem que clonar o repositorio ainda consegue ler a chave?
+Responda em duas linhas, explicando o motivo:
+
+R1 - Não pelo estado atual que o repositório se encontra, porque o arquivo foi removido e adicionado no .gitignore.
+R2 - A chave ainda pode ser acessada pelo histórico de commits anteriores, por isso a chave deve ser alterada.
 
 ---
 
