@@ -29,7 +29,7 @@ return leitura * 9 / 5 + 32;
 
 ## M3 - O segredo vazado
 
-**O que voce esperava ver no `git status` e o que apareceu:**
+O que voce esperava ver no `git status` e o que apareceu: Eu esperava que o git status deixasse de mostrar o arquivo credenciais.env depois de adicioná-lo ao .gitignore.
 
 Depois do push, alguem que clonar o repositorio ainda consegue ler a chave?
 Responda em duas linhas, explicando o motivo:
@@ -47,7 +47,7 @@ R2 - A chave ainda pode ser acessada pelo histórico de commits anteriores, por 
 - `=======` : Representa o separador, separando a versão que está na main com a versão que está na branch painel-b
 - `>>>>>>>` : Representa o fim da alteração da branch painel-b
 
-**Qual pedaco veio de quem, e qual titulo voces decidiram manter:**
+Qual pedaco veio de quem, e qual titulo voces decidiram manter: <h1>Painel da Linha 3 - Atividade</h1>
 
 Branch painel-a:
 <h1>Painel da Linha 3 - Atividade</h1>
@@ -61,7 +61,12 @@ Branch painel-b:
 ## Casa - Incidente na linha 3
 
 **Hash do commit que quebrou o painel:**
+01ef93b
 
 **Hash do commit de revert:**
+3ce118c
 
 **Por que `git revert` e nao `git reset` neste caso:**
+Foi utilizado git revert porque o commit que causou o problema já fazia parte do histórico do repositório. 
+O git revert cria um novo commit que desfaz as alterações do commit com problema. 
+O git reset poderia reescrever o histórico da branch, mas não é legal fazer isso em um repositório compartilhado.
