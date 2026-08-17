@@ -1,0 +1,47 @@
+# 📊 TechInova - Painel de Linha de Produção
+
+![License](https://shields.io)
+![PRs Welcome](https://shields.io)
+
+O **TechInova Painel de Linha** é uma solução moderna para monitoramento em tempo real de linhas de produção industriais, focada em gestão à vista e eficiência operacional.
+
+---
+
+## 📌 Sumário
+- [Visão Geral](#-visão-geral)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias](#-tecnologias)
+- [Instalação e Uso](#-instalação-e-uso)
+
+---
+
+## 🚀 Visão Geral
+Sistema para visualização clara de indicadores de produção (KPIs) no chão de fábrica, permitindo o acompanhamento de produtividade, paradas e metas em dashboards intuitivos.
+
+### 🎯 Principais Funcionalidades
+*   **Monitoramento em Tempo Real:** Produção, rejeitos e tempo de ciclo.
+*   **Sistema Andon:** Alertas visuais para paradas de linha.
+*   **Gestão de OEE:** Acompanhamento de Disponibilidade, Desempenho e Qualidade.
+*   **Interface Responsiva:** Adequada para painéis industriais e dispositivos móveis.
+
+---
+
+## 🛠 Tecnologias e Estrutura
+O projeto utiliza tecnologias web padrão:
+*   **Frontend/Backend:** HTML5, CSS3, JavaScript (Node.js).
+*   **Comunicação:** WebSockets/MQTT.
+*   **Estrutura:** `.github/`, `config/`, `css/`, `js/`, `index.html`.
+
+---
+
+## 📋 Instalação e Uso
+
+1.  **Clone o Repositório:** `git clone https://github.com/familiasilvafs222/techinova-painel-linha.git`
+2.  **Instale dependências:** `npm install`.
+3.  **Executar:** `npm start` ou `npm run dev`.
+
+---
+
+## 📄 Licença
+Distribuído sob a licença MIT.
+
