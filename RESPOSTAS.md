@@ -28,7 +28,7 @@ depois: return (leitura - 32) * 5 / 9;
 **O que voce esperava ver no `git status` e o que apareceu: Esperava ver era o arquivo config/credenciais.env listado como untracked, mas apareceu apenas o .gitignore como untracked.**
 
 **Depois do push, alguem que clonar o repositorio ainda consegue ler a chave?
-Responda em duas linhas, explicando o motivo: **
+Responda em duas linhas, explicando o motivo: Depois do push não será possível ler a chave, apenas em arquivos anteriores**
 
 ---
 
