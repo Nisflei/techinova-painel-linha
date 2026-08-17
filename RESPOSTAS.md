@@ -1,24 +1,24 @@
 # Respostas do LAB 01
 
-Nome:
-Matricula:
-Dupla (M2 em diante):
+Nome: Lucas Rodrigues Daniel
+Matricula: 26128344
+Dupla (M2 em diante): Murilo Abila Fernandes
 
 ---
 
 ## M2 - Quem quebrou o painel
 
-**Hash curto do commit que introduziu o erro:**
+**Hash curto do commit que introduziu o erro: 7ad68265**
 
-**Autor:**
+**Autor: Diego Ferraz**
 
-**Data:**
+**Data: 2026-05-22**
 
 **Linha alterada (antes e depois):**
 
 ```
-antes:
-depois:
+antes: return leitura * 9 / 5 + 32;
+depois: return (leitura - 32) * 5 / 9;;
 ```
 
 ---
