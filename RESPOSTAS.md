@@ -18,17 +18,17 @@ Dupla (M2 em diante): Murilo Abila Fernandes
 
 ```
 antes: return leitura * 9 / 5 + 32;
-depois: return (leitura - 32) * 5 / 9;;
+depois: return (leitura - 32) * 5 / 9;
 ```
 
 ---
 
 ## M3 - O segredo vazado
 
-**O que voce esperava ver no `git status` e o que apareceu:**
+**O que voce esperava ver no `git status` e o que apareceu: Esperava ver era o arquivo config/credenciais.env listado como untracked, mas apareceu apenas o .gitignore como untracked.**
 
 **Depois do push, alguem que clonar o repositorio ainda consegue ler a chave?
-Responda em duas linhas, explicando o motivo:**
+Responda em duas linhas, explicando o motivo: **
 
 ---
 
