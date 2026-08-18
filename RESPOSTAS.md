@@ -10,3 +10,6 @@ Depois: return leitura * 9 / 5 + 32;
 
 # M3 - O segredo vazado
 Sim, ainda consegue ler a chave. O arquivo continua existindo nos commits anteriores do historico, entao qualquer pessoa que acessar um commit antigo (ex: git show ou git checkout num commit passado) ainda ve o conteudo. Remover do rastreio nao apaga o arquivo do historico.
+
+# M4 - Colisao
+O marcador <<<<<<< HEAD indica o inicio da versao que ja estava na branch atual (main), vinda da branch painel-a. O marcador ======= separa as duas versoes em conflito. O marcador >>>>>>> painel-b indica o fim da versao que estava sendo trazida da branch painel-b. O titulo entre <<<<<<< e ======= veio da painel-a, e o titulo entre ======= e >>>>>>> veio da painel-b. Foi escolhido o titulo da painel-a para ficar na main.
